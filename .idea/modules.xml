@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sel16.iml" filepath="$PROJECT_DIR$/sel16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sel16_ik.iml" filepath="$PROJECT_DIR$/.idea/modules/sel16_ik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sel16_ik_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sel16_ik_main.iml" group="sel16_ik" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sel16_ik_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sel16_ik_test.iml" group="sel16_ik" />
+    </modules>
+  </component>
+</project>
